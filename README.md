@@ -53,5 +53,5 @@ Nếu bạn thấy hay, hãy dành tặng mình 1 **Star ⭐** nhé!
 </p>
 
 <p align="center">
-  Built with ❤️ by [Tên của bạn]
+  Built with ❤️ by [Pham Hoang Phuong Nam]
 </p>
