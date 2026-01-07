@@ -46,7 +46,7 @@ Khóa học giúp bạn làm chủ các kỹ thuật tạo chuyển động và 
 
 ## 🔓 License & Share
 Dự án này là **Miễn phí** vì mục tiêu chia sẻ cộng đồng. 
-Nếu bạn thấy hay, hãy dành tặng mình 1 **Star ⭐** nhé!
+Nếu bạn thấy hay, hãy dành tặng mình 1 follow trên github nhé!
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
